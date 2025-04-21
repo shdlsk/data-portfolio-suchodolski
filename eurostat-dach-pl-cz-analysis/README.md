@@ -19,7 +19,7 @@ I’m a strong believer in working with **real data, not synthetic samples** —
 - Annotated visualizations highlighting:
   - COVID lockdowns
   - Post-pandemic demand surge
-  - Energy crisis onset
+  - Russia invades Ukraine
   - EU inflation peak
   - ECB interest rate hikes
 
