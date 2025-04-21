@@ -33,4 +33,4 @@ I’m a strong believer in working with **real data, not synthetic samples** —
 ## 📈 Sample Visualizations
 
 ![HICP Inflation (Smoothed, 3-month avg) for DACH, PL & CZ - Full Overview](./img/HICP_Inflation_Full_Overview.png)
-![HICP Inflation (Smoothed, 3-month avg) for DACH, PL & CZ - Full Overview](./img/HICP_Inflation_Full_Overview.png)
+![HICP Inflation (Smoothed, 3-month avg) for DACH, PL & CZ - Overview from 2019 till now](./img/HICP_Inflation_2019-2025.png)
